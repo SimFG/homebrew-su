@@ -2,11 +2,11 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Mucli < Formula
-  desc ""
-  homepage ""
-  url "https://github.com/SimFG/mua/releases/download/0.0.1/mucli-v0.0.1-mac.tar.gz"
-  sha256 "65cfe6a826ef9f93d30975b726bbb6a2a7d4159f85dfe96bbc4b6a0bc73c60fe"
-  license ""
+  desc "milvus light client"
+  homepage "https://github.com/SimFG/mua"
+  url "https://github.com/SimFG/mua/releases/download/0.0.2/mucli-v0.0.2-mac.tar.gz"
+  sha256 "bf611ed711bd1bfd4cd70be8ae050abfaa639541f00f1630d4999f16eb841c2b"
+  license "Apache-2.0"
 
   # depends_on "cmake" => :build
 
