@@ -4,8 +4,8 @@
 class Mucli < Formula
   desc "milvus light client"
   homepage "https://github.com/SimFG/mua"
-  url "https://github.com/SimFG/mua/releases/download/0.0.2/mucli-v0.0.2-mac.tar.gz"
-  sha256 "bf611ed711bd1bfd4cd70be8ae050abfaa639541f00f1630d4999f16eb841c2b"
+  url "https://github.com/SimFG/mua/releases/download/0.0.3/mucli-v0.0.3-mac.tar.gz"
+  sha256 "775c2993220de2a1bb1025bedc8cc709694c5eef5ac9704605ffe1cd293e42d1"
   license "Apache-2.0"
 
   # depends_on "cmake" => :build
